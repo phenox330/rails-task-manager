@@ -13,3 +13,32 @@
  *= require_tree .
  *= require_self
  */
+ @import url('https://fonts.googleapis.com/css2?family=Gloock&display=swap');
+
+
+body {
+  background-color:rgba(146, 214, 209, 0.874);
+}
+
+
+ h1 {
+  display: flex;
+  justify-content: center;
+  font-family: 'Gloock', serif;
+}
+
+ p {
+ padding-left: 655px;
+
+}
+
+ul {
+ padding-left: 670px;
+
+}
+
+a {
+  text-decoration: none;
+  color: rgb(65, 61, 61);
+  font-family: 'Gloock', serif;
+}
